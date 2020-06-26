@@ -1,0 +1,7 @@
+scipy
+matplotlib.pyplot
+numpy
+ipywidgets
+IPython.display
+control.matlab
+nbinteract
